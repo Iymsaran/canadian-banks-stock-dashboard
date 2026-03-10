@@ -88,7 +88,7 @@ ORDER BY Date ASC;
 ## 💡 Key Insights
 
 - **Royal Bank (RY)** consistently maintained the highest stock price, reflecting its position as Canada's largest bank by market cap
-- **All 5 banks showed a notable dip in mid-2022**, coinciding with the Bank of Canada's aggressive rate hike cycle
+- **All 5 banks showed a notable dip in mid-2022**, reflecting broader market pressures during a period of economic uncertainty
 - **Strong recovery from 2023 onwards** across all banks, with Royal Bank and BMO showing the steepest growth
 - **Scotiabank and TD** showed more modest growth, consistent with their higher international exposure
 - The **30-day moving average** confirms sustained upward momentum despite short-term volatility
@@ -112,10 +112,10 @@ ORDER BY Date ASC;
 
 ## 🔮 Future Enhancements
 
-- Add **Bank of Canada interest rate overlay** to show rate vs stock price correlation
 - Include **dividend yield analysis** for income-focused investors
-- Expand to include **US bank comparison** (JPM, BAC)
-- Add **trading volume analysis**
+- Expand to include **US bank comparison** (JPM, BAC) for North American context
+- Add **trading volume analysis** to identify periods of high market activity
+- Build an **interactive filter** to allow users to select specific banks and date ranges
 
 ---
 
